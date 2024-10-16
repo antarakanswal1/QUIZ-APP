@@ -98,7 +98,7 @@ const nextButton = document.getElementById("next-btn");
 let currentQuestionIndex = 0;
 let score = 0;
 
-const timeLimit = 10;
+const timeLimit = 60;
 let timeRemaining = timeLimit; 
 
 
